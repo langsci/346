@@ -1,0 +1,107 @@
+%PDF-1.4
+%�쏢
+%%Invocation: path/gs -P- -dSAFER -dCompatibilityLevel=1.4 -dEPSCrop -dCompressPages=false -q -P- -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sstdout=? -sOutputFile=? -P- -dSAFER -dCompatibilityLevel=1.4 -dEPSCrop -dCompressPages=false ?
+5 0 obj
+<</Length 6 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+q
+10 40 340 290 re W n
+% g
+195 225 m
+195 191.879 168.121 165 135 165 c
+101.879 165 75 191.879 75 225 c
+75 258.121 101.879 285 135 285 c
+168.121 285 195 258.121 195 225 c
+h
+195 225 m
+f
+135 135 m
+94.9609 135 15 114.879 15 75 c
+15 45 l
+255 45 l
+255 75 l
+255 114.879 175.039 135 135 135 c
+h
+251.41 279.609 m
+226.211 254.262 l
+238.789 236.559 238.789 213.59 226.211 195.898 c
+251.41 170.551 l
+281.719 200.859 281.719 246.602 251.41 279.609 c
+h
+301.051 330 m
+276.602 305.551 l
+318.16 260.23 318.16 192.148 276.602 144.449 c
+301.051 120 l
+359.531 178.359 359.691 269.262 301.051 330 c
+h
+301.051 330 m
+f
+Q
+Q
+endstream
+endobj
+6 0 obj
+621
+endobj
+4 0 obj
+<</Type/Page/MediaBox [0 0 36 36]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF]
+>>
+/Contents 5 0 R
+>>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [
+4 0 R
+] /Count 1
+>>
+endobj
+1 0 obj
+<</Type /Catalog /Pages 3 0 R
+/Metadata 7 0 R
+>>
+endobj
+7 0 obj
+<</Type/Metadata
+/Subtype/XML/Length 1204>>stream
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<?adobe-xap-filters esc="CRLF"?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='XMP toolkit 2.9.1-13, framework 1.6'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:iX='http://ns.adobe.com/iX/1.0/'>
+<rdf:Description rdf:about="" xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 9.55.0'/>
+<rdf:Description rdf:about="" xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2022-05-30T13:09:15+02:00</xmp:ModifyDate>
+<xmp:CreateDate>2022-05-30T13:09:15+02:00</xmp:CreateDate>
+<xmp:CreatorTool>cairo 1.17.4 (https://cairographics.org)</xmp:CreatorTool></rdf:Description>
+<rdf:Description rdf:about="" xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:7ddb1d51-1825-11f8-0000-51caa5217eda'/>
+<rdf:Description rdf:about="" xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>Untitled</rdf:li></rdf:Alt></dc:title></rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                        
+                                                                        
+<?xpacket end='w'?>
+endstream
+endobj
+2 0 obj
+<</Producer(GPL Ghostscript 9.55.0)
+/CreationDate(D:20220530130915+02'00')
+/ModDate(D:20220530130915+02'00')
+/Creator(cairo 1.17.4 \(https://cairographics.org\))>>endobj
+xref
+0 8
+0000000000 65535 f 
+0000001107 00000 n 
+0000002451 00000 n 
+0000001048 00000 n 
+0000000936 00000 n 
+0000000246 00000 n 
+0000000917 00000 n 
+0000001171 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R /Info 2 0 R
+/ID [<77767DCDC06A262387E49A786CCF0197><77767DCDC06A262387E49A786CCF0197>]
+>>
+startxref
+2629
+%%EOF
