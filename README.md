@@ -1,4 +1,4 @@
-# A history of English % \subtitle{Change your subtitle in localmetadata.tex} \BackTitle{Change your backtitle in localmetadata.tex} % Change if BackTitle is different from Title
+# A history of English  
 ## Publication Info
 - Authors: Míša~(Michaela) Hejná and George Walkden %look no further, you can change those things right here.
 - Publication Date: not yet published
